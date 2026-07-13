@@ -1,0 +1,10 @@
+{
+    "message": "ok",
+    "patch_available": true,
+    "patch": {
+        "number": 1,
+        "hash": "e647d0399cdfd26cc49e35fcd144e198d36e2e478dd9d69e273610d754e",
+        "download_url": "https://raw.githubusercontent.com/huy2368/test-code-push/refs/heads/develop/dlc.vmcode"
+    },
+    "rolled_back_patch_numbers": []
+}
